@@ -1,3 +1,1 @@
-# FRAM
-
-This library is used to control the FRAM chip installed on the Industruino Ethernet expansion module. With this library data can be written/read from the FRAM memory.
+Industruino products documentation has moved [here](https://github.com/Industruino/documentation)
